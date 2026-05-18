@@ -45,6 +45,7 @@ El sistema permite:
 
 ## Capturas de Pantalla
 <img width="1582" height="766" alt="image" src="https://github.com/user-attachments/assets/29a5cad5-a50d-49cc-9d18-0e9f7041a7fd" />
+<img width="841" height="537" alt="image" src="https://github.com/user-attachments/assets/ad38f6e3-29c4-48e0-83d3-10dc295090ce" />
 
 
 ---
